@@ -1,5 +1,6 @@
 # hello-world
-Will Sterling's initial repository
+-Will Sterling's Initial Repository-
+
 Hello Everyone,
 
 I'm an ex-math teacher turned developer who's always excited to learn something new and vaulable.  
